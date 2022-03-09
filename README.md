@@ -3,7 +3,7 @@
 FLutter Puzzel Hackathon Project
 
 *******************************************************************
-Link to App https://yinkyade.github.io/puzzle_hackathon_web/#/
+Link to App Demo https://yinkyade.github.io/puzzle_hackathon_web/#/
 
 Description
 Timer - indicating how long it took to solve the puzzle
